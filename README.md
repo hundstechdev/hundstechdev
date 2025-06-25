@@ -42,7 +42,7 @@ A robust authentication flow using Node.js, JWT, password hashing, and best secu
 
 ## 📫 Let's Connect
 
-- LinkedIn: https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/ikah-collins-ifebuche-3aa71a369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn: https://www.linkedin.com/in/ikah-collins-ifebuche-3aa71a369 
 - Twitter: https://twitter.com/BigOG100
 - Portfolio: https://my-react-portfolio-website-collins-projects-e86ba3e4.vercel.app/
 
