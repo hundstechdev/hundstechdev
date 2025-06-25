@@ -43,8 +43,8 @@ A robust authentication flow using Node.js, JWT, password hashing, and best secu
 ## 📫 Let's Connect
 
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/BigOG100)
-- Portfolio: [yourwebsite.dev](https://yourwebsite.dev) *(optional)*
+- Twitter: https://twitter.com/BigOG100
+- Portfolio: [yourwebsite.dev](https://yourwebsite.dev) 
 
 ---
 
