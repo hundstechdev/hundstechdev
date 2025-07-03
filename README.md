@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a f
 
 ## 🧩 Featured Work
 
-### 🔸 [30 JavaScript Projects](https://github.com/yourusername/30-js-projects)
+### 🔸 [30 JavaScript Projects](https://github.com/hundstechdev/30-javascript-projects)
 
 
 ### 🔸 [Web3 NFT Minting DApp](https://github.com/yourusername/nft-minting-dapp)
