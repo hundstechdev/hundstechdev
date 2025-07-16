@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a f
 ## 🧩 Featured Work
 
 ### 🔸 [30 JavaScript Projects](https://github.com/hundstechdev/30-javascript-projects)
-
+A curated collection of 30 hands-on JavaScript projects designed to reinforce core programming concepts
 
 ### 🔸 [Web3 NFT Minting DApp](https://github.com/unspec-bit/MintForge-Cardano-NFT-DApp.git)
 A decentralized app that allows users to mint, view, and transfer NFTs on the Ethereum blockchain.
