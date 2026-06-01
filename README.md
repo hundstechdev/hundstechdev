@@ -1,6 +1,6 @@
 
 
-- # 👋 Hi, I'm hundstechdev — Full Stack Developer | Blockchain Enthusiast 
+- # 👋 Hi, I'm Collins — Full Stack Developer | Blockchain Enthusiast 
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a focus on **Web3, JavaScript**, and **secure software engineering**. I love building real-world projects that solve meaningful problems, especially in the blockchain and decentralized technology space.
 
